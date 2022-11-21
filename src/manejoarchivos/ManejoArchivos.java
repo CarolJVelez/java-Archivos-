@@ -1,5 +1,3 @@
-# java-Archivos-
-
 package manejoarchivos;
 
 import java.io.*;
